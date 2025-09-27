@@ -1,0 +1,30 @@
+# Core ML and NLP libraries
+torch>=2.0.0
+transformers>=4.35.0
+tokenizers>=0.15.0
+accelerate>=0.24.0
+
+# Translation models and utilities
+sentencepiece>=0.1.99
+sacremoses>=0.0.53
+datasets>=2.14.0
+
+# Evaluation metrics
+sacrebleu>=2.3.0
+rouge-score>=0.1.2
+bert-score>=0.3.13
+
+# Web UI and utilities
+streamlit>=1.28.0
+pandas>=2.1.0
+numpy>=1.24.0
+plotly>=5.17.0
+
+# Database and data handling
+sqlite3
+json5>=0.9.0
+
+# Development and deployment
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+requests>=2.31.0
