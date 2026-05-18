@@ -21,7 +21,7 @@ numpy>=1.24.0
 plotly>=5.17.0
 
 # Database and data handling
-sqlite3
+# sqlite3 is built-in with Python
 json5>=0.9.0
 
 # Development and deployment
